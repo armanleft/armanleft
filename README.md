@@ -11,5 +11,5 @@
     <a href="https://twitter.com/armanleft" alt="Twitter" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg" style="max-width: 100%;"></a>
     <a href="https://www.linkedin.com/in/armanleft/" alt="Linkedin" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg" style="max-width: 100%;"></a>
     <a href="mailto:armanleft@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" style="max-width: 100%;"></a>
-
+ <details><summary>ps:</summary><br> <p>Don't check my Instagram, I draw and paint as a hobbie and you will just find my paintings there, nothing more </details>
   </p>
